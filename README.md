@@ -3,13 +3,13 @@
 
 ## Features
 
-* Home Page 
+* ##Home Page 
 
 ![Image of Home](mac/projectImages/HomePage.PNG)
 
-* Quick View Page
+* ##Quick View Page
 
-![Image of Home](mac/projectImages/QickView.PNG)
+![Image of Home](mac/projectImages/QuicView.PNG)
 
 * CheckOut Page
 ![Image of Home](mac/projectImages/chekoutImage.PNG)
